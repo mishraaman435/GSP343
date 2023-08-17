@@ -31,7 +31,7 @@ when all the command showing (1/1) go for next task.
 kubectl get svc -w --namespace dev
 
 ----------------------------------------------------------
-do the same again\ 
+do the same again\
 Go to Services & Ingress section in Kubernetes Engine\
 find frontend-external, wait for sometime\
 when status of forntend-external os OK then click on the Endpoint address. It will show\
