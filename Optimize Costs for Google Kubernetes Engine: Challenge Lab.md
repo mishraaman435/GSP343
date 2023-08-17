@@ -24,7 +24,7 @@ cd microservices-demo && kubectl apply -f ./release/kubernetes-manifests.yaml --
 kubectl get pods -w --namespace dev
 
 --------------------------------------------------------------------------------
-run the same command until all all showing (1/1). ie 21 line command by pressing\
+run the same command until all all showing (1/1). ie above one line command by pressing\
 Press Ctrl+C\
 when all the command showing (1/1) go for next task.
 -
